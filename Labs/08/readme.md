@@ -13,9 +13,9 @@ Making counter local to each thread causes them to increment their own copies (0
 
 
 ## Q1
-(a)
+### (a)
 ![image](https://github.com/user-attachments/assets/cef0a1b5-0b55-4461-a63e-68710719b608)
-(b)
+### (b)
 ![image](https://github.com/user-attachments/assets/d5e7fecb-98be-48ac-85f3-193de19fef71)
 
 ## Q2
