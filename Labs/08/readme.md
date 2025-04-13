@@ -11,3 +11,13 @@ The threads produce different counter values because they simultaneously access 
 ![image](https://github.com/user-attachments/assets/b45fbb06-ec63-4591-9799-a71b9ab5b561)
 Making counter local to each thread causes them to increment their own copies (0 → 10000000), while the global counter remains untouched at 0.
 
+
+## Q1
+(a)
+![image](https://github.com/user-attachments/assets/cef0a1b5-0b55-4461-a63e-68710719b608)
+(b)
+![image](https://github.com/user-attachments/assets/d5e7fecb-98be-48ac-85f3-193de19fef71)
+
+## Q2
+
+
