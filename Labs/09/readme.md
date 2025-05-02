@@ -29,7 +29,7 @@
 | 16   | Parent      | `exit(0);`                                  | Program ends                           |
 
 
-## Code 2b
+## Code 2b 
 ![image](https://github.com/user-attachments/assets/37d9aedb-4a17-439b-ac7a-d0747b01b1e6)
 
 ## Code 3a
